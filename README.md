@@ -1,6 +1,5 @@
-Here’s a suggested description for your GitHub repository titled **Abnormal Human Activity Detection**:
 
----
+
 
 # Abnormal Human Activity Detection
 
